@@ -1,0 +1,17 @@
+.data{
+    color: white;
+}
+.new{
+    display: flex;
+    justify-content: space-around;
+}
+.data{
+    padding: 40px;
+}
+.txt{
+    padding: 50px;
+    color:lightgray;
+}
+.tour a{
+    padding-bottom: 10px;
+}

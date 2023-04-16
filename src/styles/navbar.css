@@ -1,0 +1,24 @@
+.navbar{
+    background-color: rgb(14, 6, 32);
+}
+.name{
+    padding: 8px;
+    margin-left: 50px;
+}
+.list{
+    margin-right: 50px;
+    
+}
+.list a{
+    text-decoration: none;
+    color: whitesmoke;
+    margin-left: 150px;
+    padding-bottom: 12px;
+    
+}
+.list a:hover{
+    border-bottom: 6px solid lightgreen;
+}
+#one{
+    border-bottom: 6px solid lightgreen;
+}
